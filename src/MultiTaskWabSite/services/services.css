@@ -1,0 +1,113 @@
+.findservice{
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+.findservice1{
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.servicecolor{
+    color: rgb(32, 32, 216);
+}
+.serviceexplore{
+   text-align: center;
+}
+.inputservice{
+    width: 250px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    height: 30px;
+}
+.servicesearch{
+    height: 30px;
+    width: 30px;
+    transform: translateY(10px);
+    border-radius: 10px;
+    margin-left: 8px;
+}
+.displeyflaxservices{
+    display: flex;
+    justify-content: space-between;
+}
+.serviceplumbing{
+   height: 100px;
+   width: 100px;
+}
+.imagehigth{
+    text-align: center;
+    height: 150px;
+    width: 140px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    border: 1px solid blueviolet;
+}
+.allservicecolor{
+    color: purple;
+}
+.populerservice{
+    font-weight: 800;
+}
+.displayflexservicesimages{
+    display: flex;
+    justify-content: space-between;
+}
+.cleaningserviceimage{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 60px;
+    border-radius: 15px;
+}
+.servicedesign{
+    color: rgb(9, 0, 14);
+    padding: 4px;
+    width: 80px;
+    margin: 8px;
+    border: 1px solid purple;
+    border-radius: 15px;
+    background-color: rgb(169, 121, 214);
+}
+.designservice{
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 8px;
+}
+.namestyle{
+    color: blueviolet;
+    margin: 8px;
+}
+.namestyle1{
+    margin: 8px;
+}
+.centerinput{
+    text-align: center;
+}
+.fulldiv{
+    height: 368px;
+    width: 280px;
+    border-radius: 20px;
+    border: 1px solid rgb(157, 23, 197);
+    /* filter: drop-shadow(-12px 15px 13px #c50bdd); */
+}
+.booknow{
+    margin-left: 8px;
+}
+.populerservice{
+    font-weight: 800;
+    font-size: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    border-bottom: 5px solid purple;
+    border-radius: 20px;
+    width: 300px;
+}
+.maindiv{
+    margin-left: 20px;
+    margin-right: 20px;
+}

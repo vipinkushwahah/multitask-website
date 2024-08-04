@@ -1,0 +1,20 @@
+.displaynavbarandservices{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.navbardiv{
+    margin: 20px;
+}
+.newnavbardiv{
+    margin-left: 40px;
+}
+.shiftingdivservice{
+    font-weight: 700;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.fulldivcleaninigdisplayflex{
+    margin-left: 40px;
+    display: flex;
+}

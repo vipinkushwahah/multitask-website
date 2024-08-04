@@ -1,0 +1,51 @@
+/* contact.css */
+.color{
+  height: 700px;
+}
+.container {
+    max-width: 450px;
+    height: fit-content;
+    margin: 0 auto;
+    border-top: 5px solid #f57905;
+    border-left: 10px solid red;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 30px 30px rgba(250, 101, 1, 0.932);
+  }
+  
+  .container img {
+    width: fit-content;
+    height: fit-content;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .container button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .container button:hover {
+    background-color: #0056b3;
+  }
+  
+  @media (min-width: 768px) {
+    .container {
+      width: 50%;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .container {
+      width: 450px;
+    }
+  }
+  
+    
+   
+   

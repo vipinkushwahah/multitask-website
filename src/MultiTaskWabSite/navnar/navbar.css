@@ -1,0 +1,68 @@
+.active{
+    color: rgb(209, 24, 24);
+}
+.Dark-Theme  {
+    color: #ffff;
+    background-color: black;
+  }
+  
+  .Light-Theme {
+    color: black;
+    background-color: white;
+  }
+  .picture{
+    height: 40px;
+    width: 40px;
+    border-bottom: 2px solid orangered;
+    border-left: 1px solid rgb(57, 15, 245);
+    border-top: 2px solid rgb(0, 255, 0);
+    border-right: 1px solid rgb(245, 15, 92);
+    border-radius: 20px;
+  }
+  .vipin{
+    border-bottom: 2px solid orangered;
+    border-left: 1px solid rgb(57, 15, 245);
+    border-top: 2px solid rgb(0, 255, 0);
+    border-right: 1px solid rgb(245, 15, 92);
+    border-radius: 10px;
+    padding-top: 5px;
+  }
+  /* .v{
+   margin: 35px;
+   padding-bottom: 6px;
+  }
+  .rightside{
+    margin-left: 25%;
+    margin-right: 20px;
+    font-size: 20px;
+  }
+  
+  .leftside{
+    margin-left: 40px;
+  } */
+  
+  /* .toggel-button{
+    margin: 25px;
+  } */
+  
+  /* button{
+    padding: 7px;
+    background-color: rgb(1, 211, 248);
+    border-radius: 50px;
+    border: 1px solid rgb(1, 240, 248);
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    border-collapse: collapse;
+    box-shadow:  0 0 5px #03c4f4, 0 0 15px #03bcf4, 0 0 25px #03e4f4, 0 0 100px #03d0f4;
+  } */
+  /* .name3{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 800;
+    filter: drop-shadow(-12px 15px 13px #03c5f5);
+  } */
+  
+
+  
+  

@@ -1,0 +1,181 @@
+.triangle{
+  display: flex;
+   height: 80px;
+   width: 250px;
+   border-left: 8px solid red ;
+   border-bottom: 8px solid red;
+   border-radius: 30px;
+   background-color: beige;
+
+}
+
+ .lineone{
+     height: 365px;
+     width: 50px;
+     background-color: #fa0404; 
+ }
+ .electric{
+  height: 70px;
+    width: 110px;
+    background-color: white;
+    text-align: center;
+    border-radius: 30px;
+ }
+ .tools{
+  height: 110px;
+  width: 150px;
+  background-color: white;
+  text-align: center;
+  border-radius: 50px;
+ }
+ .twitter{
+  height: 35px;
+  width: 35px;
+  margin: 10px;
+  transform: translate(30px, 15px);
+ }
+ .linetwo{
+    height: 418px;
+    width: 50px;
+    border-left: 6px solid grey;
+    background-color: #fa0404;
+    transform: skewX(21deg);
+ }
+ .displyflexhome{
+    display: flex;
+    border: 6px solid red;
+    border-radius: 60px;
+    height: 855px;
+    margin: 5px;
+ }
+ .linespace{
+    transform: translateX(100px);
+    margin-top: 0px;
+ }
+ .lineone1{
+    background-color: gray;
+    height: 300px;
+    width: 5px;
+ }
+ .ediv{
+     display: flex;
+     transform: skewX(337deg);
+ }
+ .lineone2{
+    background-color: brown;
+    height: 300px;
+    width: 10px;
+ }
+ .squreone{
+    height: 110px;
+    width: 110px;
+    border: 20px solid red;
+    border-radius: 50px;
+    transform: translate(-184px, -128px);
+ }
+ .squretwo{
+    height: 155px;
+    width: 150px;
+    border: 20px solid red;
+    border-radius: 80px;
+    transform: translate(-131px, -203px);
+ }
+ .transform{
+    transform: translateY(-208px);
+    
+ }
+ .homerightdiv{
+    display: flex;
+    height: 600px;
+ }
+ .hhimage{
+    height: 710px;
+    width: 600px;
+ }
+ .homeexpert{
+   margin-top: 100px;
+   font-size: 35px;
+   font-weight: 600;
+ }
+ .homeexpert1{
+   font-size: 60px;
+   font-weight: 900;
+ }
+ .colorred{
+   color: #fa0404;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: 1000;
+ }
+ .fontstyle{
+   font-weight: 800;
+   padding: 10px;
+ }
+ .homelogo{
+   height: 80px;
+   width: 80px;
+ }
+ .homedistance{
+   margin-left: 40px;
+ }
+ .homenewflex{
+   display: flex;
+   margin-top: 20px;
+ }
+
+ .danger{
+   margin-top: 20px;
+   margin-left: 80px;
+ }
+ .aboutus{
+   font-size: 25px;
+   font-weight: 600;
+   margin-top: 65px;
+ }
+ 
+ .homeservicelogo5{
+  height: 50px;
+  width: 50px;
+ }
+ .btn1{
+   margin-top: 30px;
+   margin-bottom: 110px;
+ }
+ .triy{
+  display: flex;
+  transform: translateX(-40px );
+ }
+ .cellphonedisplyflex{
+  display: flex;
+ transform: translate(22px,-50px);
+ }
+ .cellphone{
+  height: 50px;
+  width: 50px;
+ background-color: white;
+  margin-right: 15px;
+  border-radius: 15px;
+ }
+ .cellpone2{
+  font-weight: 500;
+  font-family: 'Courier New', Courier, monospace;
+ }
+ .cellpone1{
+  color: #fa0404;
+  font-weight: 500;
+  font-family: 'Courier New', Courier, monospace;
+ }
+ .cellpone3{
+  margin-left: 20px;
+  font-weight: 500;
+  font-family: 'Courier New', Courier, monospace;
+ }
+ .newimage{
+  height: 780px;
+  width: 280px;
+  border-radius: 80px;
+  border-top-right-radius: 90px;
+  margin-right: 40px;
+  transform: translate(80px , 10px);
+ }
+ 
+ 
