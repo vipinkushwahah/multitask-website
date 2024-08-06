@@ -18,7 +18,6 @@ import Plumbing from "./plumbing/plumbing";
 import Electric from "./electric/electric";
 import Book from "./booknow/book";
 import { useState } from "react";
-import ProtectedRoute from "./protect"; 
 
 const AllComponents = () => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -51,6 +50,7 @@ const AllComponents = () => {
     <div>
       <AuthProvider>
       <RouterProvider router={router} />
+      
       </AuthProvider>
     </div>
   );
