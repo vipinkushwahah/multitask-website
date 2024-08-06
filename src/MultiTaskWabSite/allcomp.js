@@ -33,7 +33,7 @@ const AllComponents = () => {
     createRoutesFromElements(
       <Route path="/" element={<Novbar isAuthenticated={isAuthenticated} user={user} />}>
         <Route index element={<Home />} />
-        <Route path="services" element={<ProtectedRoute isAuthenticated={isAuthenticated}><Services /></ProtectedRoute>} />
+        <Route path="services" element={<Services />} />
         <Route path="about" element={<About />} />
         <Route path="contact" element={<Contact onLoginSuccess={handleLoginSuccess} />} />
         <Route path="cleaning" element={<Cleaning/>} />
